@@ -1,0 +1,23 @@
+{
+  "name": "koa-hktn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsankhfr/koa-hktn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsankhfr/koa-hktn/issues"
+  },
+  "homepage": "https://github.com/ehsankhfr/koa-hktn#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
